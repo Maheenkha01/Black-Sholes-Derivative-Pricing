@@ -41,6 +41,8 @@ Limitations
 - Slow convergence (O(1/√N))
 
 Monte Carlo Simulations and Stock Price Paths
-<img width="594" height="453" alt="image" src="https://github.com/user-attachments/assets/34e95a02-4e54-46a3-ad84-1a924b77b5a2" />
+
+<img width="571" height="453" alt="image" src="https://github.com/user-attachments/assets/354d9542-3d3d-468c-97c7-4f60f5d6ba65" />
+
 
 
