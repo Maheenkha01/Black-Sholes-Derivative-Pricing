@@ -26,6 +26,7 @@ Monte Carlo Simulations
 <img width="580" height="453" alt="image" src="https://github.com/user-attachments/assets/5e451791-7b83-4be6-9072-ec5fb5c06a23" />
 
 Monte Carlo Simulation vs Black-Sholes Price Formula
+
 <img width="594" height="453" alt="image" src="https://github.com/user-attachments/assets/6a5f67ea-c289-4985-934a-6631eeddb146" />
 
 Key Findings
