@@ -17,8 +17,8 @@ Delta Vs Stock Price
 - Higher volatility increases option value
 
   Limitations:
- Assumes constant volatility
 - Ignores transaction costs
+- Assumes constant volatility
 - Cannot capture market smiles/skews
 
 Monte Carlo Simulations 
